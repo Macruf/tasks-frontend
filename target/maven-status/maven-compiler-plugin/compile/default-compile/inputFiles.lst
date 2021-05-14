@@ -1,0 +1,4 @@
+/devops/tasks-frontend/src/main/java/br/ce/wcaquino/tasksfrontend/model/Todo.java
+/devops/tasks-frontend/src/main/java/br/ce/wcaquino/tasksfrontend/controller/TasksController.java
+/devops/tasks-frontend/src/main/java/br/ce/wcaquino/tasksfrontend/ServletInitializer.java
+/devops/tasks-frontend/src/main/java/br/ce/wcaquino/tasksfrontend/TasksFrontendApplication.java
